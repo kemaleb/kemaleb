@@ -6,4 +6,4 @@
 [![Medium](https://img.shields.io/badge/medium-kemaleb-brightgreen)](https://kemaleb.medium.com)
 
 - 👨🏽‍💻 I’m currently working on fullstack projects of my company that pusula.work .
-- 🦾🚀  I’m currently learning Blockchain and developing Go🦦 
+- 🦾🚀  I’m currently learning Blockchain and developing Go & Flutter 🦦💙
