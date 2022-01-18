@@ -7,5 +7,5 @@
 
 - 👨🏽‍💻 I’m currently working on fullstack projects of my company that pusula.work .
 - 🦾🚀  I’m currently learning Blockchain and developing Go & Flutter 🦦💙
-- 
+
 ![snake svg](https://github.com/kemaleb/kemaleb/blob/output/github-contribution-grid-snake.svg)
